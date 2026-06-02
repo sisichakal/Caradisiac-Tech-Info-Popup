@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Caradisiac Tech Info Popup
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Affiche un pop-in avec les informations techniques colorées sur Caradisiac
 // @author       You
 // @match        https://www.caradisiac.com/fiches-techniques/*
@@ -262,7 +262,7 @@
             align-items: center;
         `;
         header.innerHTML = `
-            <span>Informations Techniques v1.0</span>
+            <span>Informations Techniques v1.2</span>
             <span id="caradisiac-close-popup" style="cursor:pointer;font-size:18px;">&times;</span>
         `;
 
