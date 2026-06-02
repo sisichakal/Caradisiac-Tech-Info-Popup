@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Caradisiac Tech Info Popup
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Affiche un pop-in avec les informations techniques colorées sur Caradisiac
 // @author       You
 // @match        https://www.caradisiac.com/fiches-techniques/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=caradisiac.com
+// @updateURL    https://raw.githubusercontent.com/sisichakal/Caradisiac-Tech-Info-Popup/main/Caradisiac-Tech-Info-Popup.js
+// @downloadURL  https://raw.githubusercontent.com/sisichakal/Caradisiac-Tech-Info-Popup/main/Caradisiac-Tech-Info-Popup.js
 // @grant        none
 // ==/UserScript==
 
